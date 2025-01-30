@@ -57,10 +57,10 @@
         <mxCell id="MfQ9DTAlPBdOTaMPNGzB-2" value="Detailed Brief" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1161" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MfQ9DTAlPBdOTaMPNGzB-3" value="Problem" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MfQ9DTAlPBdOTaMPNGzB-3" value="Design Problem" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="260" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MfQ9DTAlPBdOTaMPNGzB-4" value="Solution" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="MfQ9DTAlPBdOTaMPNGzB-4" value="Design Solution" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1450" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MfQ9DTAlPBdOTaMPNGzB-6" value="Agents acting as experts while defining Detailed Brief" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
